@@ -59,7 +59,7 @@ Ce projet utilise le dataset **Mall Customers** pour segmenter les clients en gr
 
 
 
--  Compétences Maîtrisées
+-  Compétences
 1. **Prétraitement des données** : Nettoyage, encodage des variables catégorielles, gestion des valeurs manquantes.
 2. **Modélisation** : Utilisation de modèles de machine learning comme Random Forest, Decision Tree, et K-Means.
 3. **Évaluation des modèles** : Calcul de métriques comme l'accuracy et la MAE pour évaluer les performances des modèles.
@@ -67,9 +67,9 @@ Ce projet utilise le dataset **Mall Customers** pour segmenter les clients en gr
 
 
 
-#### Installe les dépendances nécessaires :
+#### imports :
 --pip install pandas scikit-learn plotly numpy
 
-#### Exécute les scripts Python :
+#### Commandes :
 -python Titanic.py
 -python Mall_Customers.py
