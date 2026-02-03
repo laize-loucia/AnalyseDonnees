@@ -1,14 +1,11 @@
-# DataInsight
-Travail de pre-processing pour l'usage de modèles de données en machine learning
+# Projet
+Travail de pre-processing pour l'usage de modèles de données en machine learning avec les jeux de données **Titanic** et **Mall Customers** pour prédire la survie des passagers et segmenter les clients.
 
-# DataInsight: Analyse et Segmentation de Données
+Ce dépôt, contient deux projets d'analyse de données, fait l'usage des bibliothèques scikit-learn pour le machine learning réalisés en Python. 
 
-**Projets d'analyse de données et de machine learning** utilisant les datasets **Titanic** et **Mall Customers** pour prédire la survie des passagers et segmenter les clients.
+Ces projets m'ont permis de développer des compétences en prétraitement des données, modélisation, et visualisation.
 
-
-Ce dépôt, contient deux projets d'analyse de données, fait l'usage des bibliothèques scikit-learn pour le machine learning réalisés en Python. Ces projets m'ont permis de développer des compétences en prétraitement des données, modélisation, et visualisation.
-
-##  Projets
+##  Etapes du projet
 
 ### 1. Prédiction de la Survie sur le Titanic
 
